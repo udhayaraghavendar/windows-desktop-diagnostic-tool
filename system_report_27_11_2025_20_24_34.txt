@@ -1,0 +1,28 @@
+====================================
+ WINDOWS DESKTOP DIAGNOSTIC TOOL 
+====================================
+
+===== SYSTEM INFORMATION =====
+OS Name        : Windows
+OS Version     : 10.0.19045
+Machine        : AMD64
+Processor      : Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+Total RAM      : 7.87 GB
+RAM Usage      : 87.1%
+
+===== DISK HEALTH CHECK =====
+Total Disk     : 476.2 GB
+Used Disk      : 15.2%
+Free Space     : 403.61 GB
+✅ Disk space is sufficient.
+
+===== APPLICATION STATUS =====
+❌ chrome.exe is NOT running
+✅ msedge.exe is running
+✅ explorer.exe is running
+
+===== NETWORK CONNECTIVITY =====
+✅ Internet connectivity OK
+
+✅ Diagnostic check completed.
+Log file saved as: system_report_27_11_2025_20_24_34.txt
