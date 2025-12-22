@@ -1,4 +1,4 @@
-# windows-desktop-diagnostic-tool
+# System Health Automation Tool
 ## A Python-based Windows diagnostic utility designed to collect essential system health information, verify application status, and check network connectivity.The tool automatically generates a timestamped diagnostic report, making it useful for IT Support / Application Support scenarios.
 
 ## ✅ Key Features
